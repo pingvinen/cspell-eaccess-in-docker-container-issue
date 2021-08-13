@@ -1,0 +1,22 @@
+{
+  "name": "cspell-eaccess-in-docker-container-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "spellcheck": "cspell 'src/**/*.md'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pingvinen/cspell-eaccess-in-docker-container-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pingvinen/cspell-eaccess-in-docker-container-issue/issues"
+  },
+  "homepage": "https://github.com/pingvinen/cspell-eaccess-in-docker-container-issue#readme",
+  "dependencies": {
+    "cspell": "5.6.6"
+  }
+}

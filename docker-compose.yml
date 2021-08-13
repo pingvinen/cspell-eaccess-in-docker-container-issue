@@ -1,0 +1,10 @@
+version: "2"
+
+services:
+  node:
+    image: cspell-node-issue:node
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app/repository

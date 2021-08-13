@@ -1,0 +1,17 @@
+{
+    "language": "en",
+    "allowCompoundWords": true,
+    "words": [
+        "OWASP",
+        "frontends",
+        "backends",
+        "hotspot",
+        "tika",
+        "modelmapper",
+        "jjwt",
+        "joda",
+        "pincode",
+        "automagically",
+        "callout"
+    ]
+}
