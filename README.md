@@ -1,5 +1,9 @@
 # EACCESS error when running cspell in a docker container
 
+## ✔️ This issue was fixed in version `5.6.7`
+
+## The problem
+
 This repository contains example code for Github issue [cspell 1510](https://github.com/streetsidesoftware/cspell/issues/1510).
 
 This repository defines a Dockerfile with Node and cspell that has a keepAlive script, to enable it to be used with `docker-compose`. This allows a user start docker-compose and trigger a spellcheck with all the correct settings applied whenever they need it on whatever machine they have.
